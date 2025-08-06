@@ -1,0 +1,2 @@
+use("plati_store")
+db.products.find()
